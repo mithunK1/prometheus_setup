@@ -1,0 +1,12 @@
+docker-compose down
+
+docker-compose up
+
+http://localhost:9090
+
+http://localhost:3000
+
+http://prometheus:9090
+
+up
+
